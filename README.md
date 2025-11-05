@@ -36,3 +36,5 @@ Es gibt mehrere Optionen:
 - Sie können mir Ihre Logindaten per E-Mail (tolik708main@gmail.com) send und ich werde alles Nötige erledigen.
 - Sie können die Erweiterung selbst installieren. Dafür habe ich am Ende dieses Dokuments ein Video hinzugefügt.
 - Sie können mir eine E-Mail schreiben und wir können uns irgendwo in Villa Blanka treffen. Ich werde Sie alles zeigen.
+
+[Guide.webm](https://github.com/user-attachments/assets/3404eb10-f467-4af1-961d-e530a45e3b82)
