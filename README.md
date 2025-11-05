@@ -12,7 +12,7 @@ It's completly opensource and doesn't depend on any libraries, except of Chrome 
 
 ### How to use
 There are actually a few options:
-- You can send me your login and password on this email (tolik708main@gmail.com) and I'll do all the needed steps for you.
+- You can send me your login and password on this email (alex.smith36589@gmail.com) and I'll do all the needed steps for you.
 - You can install extension yourself and do everything on your own. For that you'll find a video at the end.
 - You can write on my email and we can meet somewhere in Villa Blanka, I'll show how everything works and so on.
 
@@ -33,6 +33,6 @@ Es ist opensource und benutzt keine libraries, außer von Chrome API und JavaScr
 
 ### Wie man es einstellt
 Es gibt mehrere Optionen:
-- Sie können mir Ihre Logindaten per E-Mail (tolik708main@gmail.com) send und ich werde alles Nötige erledigen.
+- Sie können mir Ihre Logindaten per E-Mail (alex.smith36589@gmail.com) send und ich werde alles Nötige erledigen.
 - Sie können die Erweiterung selbst installieren. Dafür habe ich am Ende dieses Dokuments ein Video hinzugefügt.
 - Sie können mir eine E-Mail schreiben und wir können uns irgendwo in Villa Blanka treffen. Ich werde Sie alles zeigen.
