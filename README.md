@@ -36,3 +36,9 @@ Es gibt mehrere Optionen:
 - Sie können mir Ihre Logindaten per E-Mail (alex.smith36589@gmail.com) send und ich werde alles Nötige erledigen.
 - Sie können die Erweiterung selbst installieren. Dafür habe ich am Ende dieses Dokuments ein Video hinzugefügt.
 - Sie können mir eine E-Mail schreiben und wir können uns irgendwo in Villa Blanka treffen. Ich werde Sie alles zeigen.
+
+### Wichtig
+Wenn es Ihnen geholfen hat, bitte leiten es weiter!
+
+
+https://github.com/user-attachments/assets/5594e561-58be-49bc-9da3-9d86937d7479
